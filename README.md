@@ -1,3 +1,3 @@
-# java_matrix
-Simple java matrix
+# Matrix
+Currently only supports very basic functionality.
 
